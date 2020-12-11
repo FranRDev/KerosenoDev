@@ -1,11 +1,11 @@
 ### Hola 👋
-🔭 Actualmente estoy trabajando en: Sofitec, como desarrollador .NET.
-🌱 Actualmente estoy aprendiendo: SPA con .NET y Angular.
+🔭 Actualmente estoy trabajando en: Sofitec, como desarrollador .NET.  
+🌱 Actualmente estoy aprendiendo: SPA con .NET y Angular.  
 ⚡ Dato curioso: cinéfilo.
 
 ### Hi there 👋
-🔭 I’m currently working on: Sofitec, as a .NET developer
-🌱 I’m currently learning: SPA with .NET and Angular.
+🔭 I’m currently working on: Sofitec, as a .NET developer  
+🌱 I’m currently learning: SPA with .NET and Angular.  
 ⚡ Fun fact: cinephile.
 
 <!--

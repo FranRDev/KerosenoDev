@@ -4,7 +4,7 @@
 ⚡ Dato curioso: cinéfilo.
 
 ### Hi there 👋
-🔭 I’m currently working on: Sofitec, as a .NET developer  
+🔭 I’m currently working on: Sofitec, as a .NET developer.  
 🌱 I’m currently learning: SPA with Angular and .NET Core.  
 ⚡ Fun fact: cinephile.
 

@@ -1,18 +1,9 @@
 ### Hola 👋
 🔭 Actualmente estoy trabajando en: Sofitec, como desarrollador .NET.  
-🌱 Actualmente estoy aprendiendo: SPA con Angular y .NET Core.  
+🌱 Actualmente estoy aprendiendo: Azure Fundametals.  
 ⚡ Dato curioso: cinéfilo.
 
-### Hi there 👋
+### Hi 👋
 🔭 I’m currently working on: Sofitec, as a .NET developer.  
-🌱 I’m currently learning: SPA with Angular and .NET Core.  
+🌱 I’m currently learning: Azure Fundametals.  
 ⚡ Fun fact: cinephile.
-
-<!--
-👯 I’m looking to collaborate on ...
-🤔 I’m looking for help with ...
-💬 Ask me about ...
-📫 How to reach me: ...
-😄 Pronouns: ...
-⚡ Fun fact: ...
--->
